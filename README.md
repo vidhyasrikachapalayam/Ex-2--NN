@@ -1,6 +1,6 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
+<H3>Name</H3>vidhyASRI.K
+<H3>Register no.</H3>212222230170
+<H3>Date</H3>26/3/2024
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
@@ -187,12 +187,19 @@ def plot_decision_regions(x, y, classifier):
 # OUTPUT:
 ```
 Dataset:
+
 ![image](https://github.com/vidhyasrikachapalayam/Ex-2--NN/assets/119477817/765a4698-0138-466f-9e9a-84e33f9659fd)
+
 Iris dataset:
+
 ![image](https://github.com/vidhyasrikachapalayam/Ex-2--NN/assets/119477817/ac94cb02-fede-45e9-92ce-5c5cafb73c0b)
+
 Scatterplot:
+
 ![image](https://github.com/vidhyasrikachapalayam/Ex-2--NN/assets/119477817/4626177a-d442-4344-9249-5c1b962b2588)
+
 Errorplot and Accuracy:
+
 ![image](https://github.com/vidhyasrikachapalayam/Ex-2--NN/assets/119477817/aa8d5008-98b9-4201-9afe-4410e0ace38f)
 
 
