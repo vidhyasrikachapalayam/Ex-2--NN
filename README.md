@@ -1,4 +1,4 @@
-<H3>Name</H3>vidhyASRI.K
+<H3>Name</H3>vidhyasri.K
 <H3>Register no.</H3>212222230170
 <H3>Date</H3>26/3/2024
 <H3>Experiment No. 2 </H3>
