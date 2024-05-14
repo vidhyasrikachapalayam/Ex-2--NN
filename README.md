@@ -1,5 +1,8 @@
 Name  vidhyasri.K
+
+
 Register no 212222230170
+
 Date  26/3/2024
 ## Experiment No. 2 NN Implementation of PeRceptron for Binary Classification
  Implementation of PeRceptron for Binary Classification:
