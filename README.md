@@ -1,8 +1,8 @@
-<H3>Name</H3>vidhyasri.K
-<H3>Register no.</H3>212222230170
-<H3>Date</H3>26/3/2024
-<H3>Experiment No. 2 NN </H3>
-# Implementation of Perceptron for Binary Classification:
+Name  vidhyasri.K
+Register no 212222230170
+Date  26/3/2024
+## Experiment No. 2 NN Implementation of PeRceptron for Binary Classification
+ Implementation of PeRceptron for Binary Classification:
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
